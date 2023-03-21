@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajx7
-- 👀 I’m interested in ...Data Science , Machine Learning , Python , Front-End 
+- 👀 I’m interested in ...Data Science , Machine Learning , Python , Front-End Web Dev
 - 🌱 I’m currently learning ...Computer Science 
 - 💞️ I’m looking to collaborate on ...Web Dev Projects 
 - 📫 How to reach me ...email 
